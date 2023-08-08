@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Consistency is the key to success
 ---
 
-Hi :) I'm Dahna.
+Hi! I'm Dahna :)
 
 - I am preparing to become a developer.
 - My primary goal is to approach this journey with consistency and dedication.
