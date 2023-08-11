@@ -6,8 +6,7 @@ tags: [fullstack,project,fix]
 comments: true
 ---
 
-잠결에 팀원들 대화를 보니 댓글 기능이 클릭조차 되지 않아  
-내가 두번째로 삽질 오래한 페이지를 갈아 엎을 계획을 세우고 있었다ㅠㅠ  
+잠결에 팀원들 대화를 보니 댓글 기능이 클릭조차 되지 않아 내가 두번째로 삽질 오래한 페이지를 갈아 엎을 계획을 세우고 있었다ㅠㅠ  
 어케든 살려보려고 별의별짓을 다 해봤는데 결국 살림!ㅠㅠㅠ  
 후후후후후훟흐흐흐🤤
 
@@ -19,6 +18,7 @@ ReplyList.js
 ReplyInsert.js  
 ItemDetail.js  
 ItemDetail.module.css  
+  
 
 
 **fixed**  
