@@ -30,12 +30,14 @@ else :
    print("Sorry, you have to grow taller before you can ride.")  
 ```
 ### 비교 연산자 (Comparison Operators)
+```javascript
  > : Greater than  
  < : Less than  
  <= : Greater than or equal to  
  >= : Less than or equal to  
  == : Equal to ( = 하나만 써 줄때는 값을 변수로 지정해준다는 의미임 )  
  != : Not equal to  
+```
 <br><br>
 🐶 **과제 Odd or Even (홀수 또는 짝수)**  
 % (모듈로) : 나누기 후 나머지를 보여줌
