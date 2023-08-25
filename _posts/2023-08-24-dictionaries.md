@@ -92,12 +92,10 @@ add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
 
 1. 함수 생성하기(파라미터에 들어올 값들 이름 순서대로 설정)  
 2. 빈 딕셔너리 만들어주기  
-3. 각 파라미터 값 딕셔너리 value값으로 넣어주기
-  
+3. 각 파라미터 값 딕셔너리 value값으로 넣어주기    
 {: .box-note}
 **Note:** 💡 value값으로 넣어줬다는 건 결국 대괄호 안 이름은 key값이 됨.  
 이 지점에서 print하면 value값만 나오지만, 딕셔너리에 넣어준 후에는 key와 value값이 모두 출력된다.  
-
 
 4. append로 딕셔너리를 리스트 항목에 추가
 
