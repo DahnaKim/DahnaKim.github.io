@@ -113,7 +113,9 @@ add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
 
 <br>
 
-**코드작성**
+**코드작성**  
+![10](/assets/img/20230824_dic11.png)  
+
 1. 로고 import  
 2. 이름, 입찰가 input 입력 받고 변수 생성(가격은 int type으로)  
 3. 빈 딕셔너리 생성해서 이름과 입찰가를 딕셔너리에 추가하기  
@@ -125,17 +127,15 @@ add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
 6. no 일 경우 while문 false가 되서 높은 입찰가 책정하는 함수로 넘어가고 while문 빠져나옴  
 7. 별도의 함수 생성  
 💡파라미터명은 함수를 위해 작성 됐을 뿐 아규먼트값이 들어오면 대체됨 헷갈리지 말긔..  
--bidder에 아규먼트로 들어온 bids의 key값이 for반복문 각bidder에 할당됨  
--value값 변수명 붙여주기  
--if 문으로 가장 높은 값 찾기
-
-<br>
+- bidder에 아규먼트로 들어온 bids의 key값이 for반복문 각bidder에 할당됨  
+- value값 변수명 붙여주기  
+- if 문으로 가장 높은 값 찾기
  
 ![9](/assets/img/20230824_dic10.png)
 
 <br>
  
-![10](/assets/img/20230824_dic11.png)  
+
 
 
 
