@@ -22,13 +22,13 @@ tags: [요즘]
 
 <br>
 
-**2024-02-26 추가 근황**
+**2024-02-26 Study Update**
 도커, MySQL학습 완료 
 풀스택 프로젝트 시작
 
 <br>
 
-**2024-05-03 추가 근황**  
+**2024-05-03 Study Update**  
 개인웹사이트 작업  
 파이썬으로 백엔드 작업. RESTful API는 배운적 없지만 현업에서 많이 사용하는 편이라 시도   
 기본적인 기능 구현(파일,유저CRUD + 테스트 완료)  
@@ -36,3 +36,14 @@ tags: [요즘]
 모르는 기술도 배우고 완성도 높은 코드로 공부하자 싶어 당근마켓 클론코딩 강의 구매, 6월부터 진행할 예정  
 
 <br>
+**2024-07-18 Study Update**  
+  
+![2](/assets/img/clonecoding.png)  
+  
+클론코딩 수강 완료  
+NextJS, PlanetScale, Prisma, Tailwind, Vercel, Cloudflare 활용함  
+코드 복습중    
+모바일 관련 강의 추가로 학습 예정    
+
+<br>
+
