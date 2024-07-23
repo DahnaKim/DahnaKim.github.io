@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Current Status
+title: Study Update
 subtitle: 근황 기록
 cover-img: /assets/img/20240126_latest.png
 thumbnail-img: /assets/img/20240126_latest.png
